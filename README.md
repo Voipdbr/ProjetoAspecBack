@@ -4,7 +4,7 @@
 
 # ProjetoAspecBack
 
-O projeto em questão é um desafio Back-End que participei e nele foi dado os seguintes passos para conclusão do desafio.
+O projeto em questão é um desafio Back-End que participei, e nele foi dado os seguintes passos para conclusão do desafio.
 
 Desenvolver uma API em formato REST. Essa API servirá de base para uma aplicação do
 tipo "TODO list" e deverá satisfazer os seguintes requisitos:
