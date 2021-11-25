@@ -59,3 +59,37 @@ Na pasta insomnia, existe o arquivo .json que fará o import das URL's da aplica
 	"done": false
 }
 ```
+
+# - Executando
+
+### Para rodar a aplicação você precisa seguir os passos seguintes
+
+#### OBS: Para executar os comando você irá necessitar baixar o <a href="https://nodejs.org/en/">NPM (Node Package Manager)</a>
+
+- 1 - Instalar os pacotes
+
+Entrando na pasta do projeto, você irá digitar no seu cmd o comando.
+
+```
+npm install
+```
+
+Com o comando acima você irá baixar todos os pacotes que serão utilizados para rodar a aplicação.
+
+- 2 - Executando
+
+Finalizando a instalação.
+
+Você irá digitar no seu cmd o comando.
+
+```
+npm start
+```
+
+ou 
+
+```
+nodemon server.js
+```
+
+Assim os endpoint's serão iniciados na porta 3000, no server localhost.
